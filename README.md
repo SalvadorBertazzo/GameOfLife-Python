@@ -9,8 +9,4 @@ Conway's Game of Life is a mathematical game composed by a cellular automata and
  
 ### What did I use:
  * Python ( Pygame | Numpy )
- 
-![Image 1](https://github.com/[SalvadorBertazzo]/[GameOfLife-Python]/blob/[main]/image1.jpg?raw=true)
-![Image 2](https://github.com/[SalvadorBertazzo]/[GameOfLife-Python]/blob/[main]/image2.jpg?raw=true)
-![Image 3](https://github.com/[SalvadorBertazzo]/[GameOfLife-Python]/blob/[main]/image3.jpg?raw=true)
-![Image 4](https://github.com/[SalvadorBertazzo]/[GameOfLife-Python]/blob/[main]/image4.jpg?raw=true)
+
